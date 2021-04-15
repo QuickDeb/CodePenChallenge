@@ -1,0 +1,26 @@
+/* In order to validate your CSS code, click on the arrow at the top right of this window. Don't forget, you can have a look here : https://blog.codepen.io/2017/10/11/analyze-css-now-using-stylelint/ 
+ */
+
+/* Your CSS code here */
+
+
+
+body {
+  
+  background: cadetblue;
+  color: aqua;
+ 
+}
+
+
+
+.container {
+  display: flex;
+  box-sizing: border-box;
+  padding-right: 100px;
+}
+
+li {
+  list-style-type: none;
+}
+
